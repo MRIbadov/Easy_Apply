@@ -1,6 +1,5 @@
 # Easy_Apply
-This projects contains some problems when its run I already started new version of that project.
-Becasue there some cause related to the body part of the program
+This program is designed to automate the job application process on LinkedIn.
 
 # How to run
 1. you must check the version of chrome of your computer
